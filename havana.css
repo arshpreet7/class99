@@ -1,0 +1,16 @@
+.copy-right footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+img-hover {
+    border-radius: 140px;
+}
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
